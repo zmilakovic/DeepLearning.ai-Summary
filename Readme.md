@@ -1,4 +1,4 @@
-# DeepLearning.ai Courses Notes
+# DeepLearning.ai Courses Notes ZM
 
 This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
 
